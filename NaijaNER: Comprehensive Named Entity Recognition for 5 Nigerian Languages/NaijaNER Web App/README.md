@@ -1,2 +1,2 @@
-# Named-Entity-Recognition-for-Nigerian-Languages
-NER streamlit app test deployed on Heroku
+# NaijaNER: Comprehensive Named Entity Recognition for 5 Nigerian Languages
+## NER streamlit Wed app deployed on Heroku
